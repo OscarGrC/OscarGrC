@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://OscarGrc.github.io/" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="./imagenes/banner.png" alt="Logo" 
+      src="https://github.com/OscarGrC/OscarGrC/blob/main/Imagenes/banner.png" alt="Logo" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/twitter/follow/Oscar_sanivuli?style=social" alt="OscarGrC-twitter" />
 </p>
 
-# <img src="./imagenes/octogato.png" width=15% align=right />  Hola, soy Oscar Gracia Cobo 
+# <img src="https://github.com/OscarGrC/OscarGrC/blob/main/Imagenes/octogato.png" width=25% align=right />  Hola, soy Oscar Gracia Cobo 
 
 Soy **Estudiante de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés y soy mas friky que tu.
 
@@ -24,11 +24,6 @@ Este es mi **repositorio personal**, úsalo como quieras y
 Sabed, oh príncipe, que entre los años del hundimiento de Atlantis y de la aparición de los hijos de Aryas, hubo una edad olvidada
 en la que el mundo estaba cubierto de brillantes reinos. Pero esa... esa es otra historia.
 
-
-  </a> &nbsp;
-    <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="./imagenes/1a1.png" alt="Logo3" height="200"
-      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 
 > “No hay barrera, cerradura, ni cerrojo que puedas imponer a la libertad de mi mente”. Virginia Woolf
