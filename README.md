@@ -54,26 +54,41 @@ en la que el mundo estaba cubierto de brillantes reinos. Pero esa... esa es otra
 
 <h2 align="center">⚡ Tecnologías favoritas</h2>
 <p align="center">
-Estas son todas las tecnologías que se usar algo😭
-
+Estas son las tecnologías que se usar 
 </p>
+
 
 <p align="center">
   <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
-  height="45">
+  height="40">
+  <img loading="lazy" src="https://distreau.com/github.svg" 
+  height="40">
+  <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png"
+  height="40">
   <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="45">
+  height="40">
   <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-  height="45">
+  height="40">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" 
+  height="40">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
+  height="40">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
+  height="40">
+  <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
+  height="40">
+   <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
+  height="40">
+  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" 
+  height="40">
+  <img loading="lazy" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" 
+  height="40">
+  
 </p>
 
 
-
-
-
-
-
-
+ 
+ 
 <!--
 **OscarGrC/OscarGrC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
