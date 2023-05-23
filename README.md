@@ -13,7 +13,7 @@
 
 # <img src="https://github.com/OscarGrC/OscarGrC/blob/main/Imagenes/octogato.png" width=25% align=right />  Hola, soy Oscar Gracia Cobo 
 
-Soy **Estudiante de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés y soy mas friky que tu.
+Soy **Estudiante de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés.
 
 Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor  hasta el cliente . En otros tiempos fui Mecanico y Electricista
  un curro noble para tiempos más civilizados,antes de estos tiempos oscuros, antes del Imperio.
