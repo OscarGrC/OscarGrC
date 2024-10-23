@@ -37,10 +37,7 @@ en la que el mundo estaba cubierto de brillantes reinos. Pero esa... esa es otra
         <img loading="lazy" src="https://distreau.com/github.svg" 
     height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://twitter.com/Oscar_Sanivuli" target="_blank">
-        <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
-    height="50">
-    </a> &nbsp;&nbsp;
+ &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/oscar-gracia-176935251/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
@@ -76,8 +73,6 @@ Estas son las tecnologías que se usar
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
   height="40">
   <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
-  height="40">
-   <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="40">
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" 
   height="40">
