@@ -13,16 +13,14 @@
 
 # <img src="https://github.com/OscarGrC/OscarGrC/blob/main/Imagenes/octogato.png" width=25% align=right />  Hola, soy Oscar Gracia Cobo 
 
-Soy **Estudiante de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés.
+Soy **Titulado de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés.
 
-Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor  hasta el cliente . En otros tiempos fui Mecanico y Electricista
- un curro noble para tiempos más civilizados,antes de estos tiempos oscuros, antes del Imperio.
+Estoy interesado en aplicaciones multiplataforma, web y móviles desde el servidor  hasta el cliente .
+Uno de mis ilustres profesores es [Jose Luis](https://github.com/joseluisgs) 
 
-Actualmente siendo entrenado en las artes de la programación por [Jose Luis](https://github.com/joseluisgs) 
+Actualmente sigo formandome en Oxigen Academy para seguir aprendiendo.
 
-Este es mi **repositorio personal**, úsalo como quieras y
-Sabed, oh príncipe, que entre los años del hundimiento de Atlantis y de la aparición de los hijos de Aryas, hubo una edad olvidada
-en la que el mundo estaba cubierto de brillantes reinos. Pero esa... esa es otra historia.
+Este es mi **repositorio personal**, úsalo como quieras 
 
   </a>
 
