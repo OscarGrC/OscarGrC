@@ -36,7 +36,7 @@ Este es mi **repositorio personal**, úsalo como quieras
     height="50">
     </a> &nbsp;&nbsp;
  &nbsp;&nbsp;
-    <a href="[https://www.linkedin.com/in/oscar-gracia-176935251/" target="_blank">
+    <a href="https://www.linkedin.com/in/%C3%B3scar-gracia-176935251/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     </a> &nbsp;&nbsp;
