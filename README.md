@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/OscarGrC?style=social" alt="OscarGrC-github" />
-  <img src="https://img.shields.io/twitter/follow/Oscar_sanivuli?style=social" alt="OscarGrC-twitter" />
 </p>
 
 # <img src="https://github.com/OscarGrC/OscarGrC/blob/main/Imagenes/octogato.png" width=25% align=right />  Hola, soy Oscar Gracia Cobo 
@@ -25,6 +24,18 @@ Este es mi **repositorio personal**, úsalo como quieras
   </a>
 
 > “No hay barrera, cerradura, ni cerrojo que puedas imponer a la libertad de mi mente”. Virginia Woolf
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGrC&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=stars,contribs&locale=es)](https://github.com/OscarGrC/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGrC&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/745b546a-606d-405d-9fdf-34f03b8ca03d.svg)](https://wakatime.com/@745b546a-606d-405d-9fdf-34f03b8ca03d)
+
+
+
+
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
